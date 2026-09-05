@@ -7,6 +7,7 @@ Equipe: Lactech
 
 
 LINK DO REPOSITÓRIO: https://github.com/lara-sodre/lactech-flutter.git 
+LINK DO VÍDEO APRESENTAÇÃO: https://youtu.be/riOoligKLKs?si=-FGoQGwzfXYzF8W_
 
 
 INTEGRANTES:

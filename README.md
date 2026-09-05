@@ -5,12 +5,12 @@ Tecnologia: Flutter / Dart
 Tipo de aplicação: Aplicativo mobile
 Equipe: Lactech
  
-INTEGRANTES ----------------------------------------------------
+INTEGRANTES 
 Beatriz Matos Marques Rosa - RM: 554805
 Keyla Dayana Magne Ala - RM: 557630
 Lara Rosa Sodré - RM: 555496
  
-SOBRE O PROJETO ------------------------------------------------
+SOBRE O PROJETO 
  
 O Lactare é um aplicativo desenvolvido para apoiar o gerenciamento e a organização de atividades relacionadas à doação de leite materno.
  
@@ -18,10 +18,11 @@ A aplicação possui diferentes perfis de utilização, permitindo o acesso a fu
  
 Entre as funcionalidades implementadas estão cadastro e login, acompanhamento de informações, registro e histórico de coletas, agendamento, notificações, feedbacks e gerenciamento de dados do usuário.
  
-OBJETIVO---------------------------------------------------------
+OBJETIVO
+
 O objetivo do Lactare é oferecer uma solução mobile que facilite a organização das atividades relacionadas à doação de leite materno, proporcionando uma experiência mais simples para as doadoras, profissionais da rede de apoio e equipe responsável pelo acompanhamento do processo.
 
-PRINCIPAIS TELAS ------------------------------------------------
+PRINCIPAIS TELAS --
 
 
 Splash

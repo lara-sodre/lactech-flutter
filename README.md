@@ -25,6 +25,27 @@ OBJETIVO
 
 O objetivo do Lactare é oferecer uma solução mobile que facilite a organização das atividades relacionadas à doação de leite materno, proporcionando uma experiência mais simples para as doadoras, profissionais da rede de apoio e equipe responsável pelo acompanhamento do processo.
 
+PARA RODAR COLOQUE ESSES LOGINS:
+
+DOADORA
+
+Login - nutriz_maria
+Senha - 123456
+
+
+APOIO
+
+Login - familia_ana
+Senha - 123456
+
+
+EQUIPE LACTARE
+
+Login - equipe_lactare
+Senha - admin123
+
+
+
 PRINCIPAIS TELAS --
 
 

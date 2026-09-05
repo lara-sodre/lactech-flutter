@@ -6,8 +6,11 @@ Tipo de aplicação: Aplicativo mobile
 Equipe: Lactech
  
 INTEGRANTES 
+
 Beatriz Matos Marques Rosa - RM: 554805
+
 Keyla Dayana Magne Ala - RM: 557630
+
 Lara Rosa Sodré - RM: 555496
  
 SOBRE O PROJETO 

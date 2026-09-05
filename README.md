@@ -4,6 +4,8 @@ Projeto: Lactare
 Tecnologia: Flutter / Dart
 Tipo de aplicação: Aplicativo mobile
 Equipe: Lactech
+
+LINK DO REPOSITÓRIO: https://github.com/lara-sodre/lactech-flutter.git 
  
 INTEGRANTES 
 
@@ -24,6 +26,7 @@ Entre as funcionalidades implementadas estão cadastro e login, acompanhamento d
 OBJETIVO
 
 O objetivo do Lactare é oferecer uma solução mobile que facilite a organização das atividades relacionadas à doação de leite materno, proporcionando uma experiência mais simples para as doadoras, profissionais da rede de apoio e equipe responsável pelo acompanhamento do processo.
+
 
 PARA RODAR COLOQUE ESSES LOGINS:
 
@@ -71,7 +74,7 @@ Cadastro
 
 Login
 
-![Login](docs/screenshots/login.png)
+![Login](docs/screenshots/tela-login.png)
 
 *Tela destinada à autenticação do usuário para acesso às funcionalidades do aplicativo.
 
@@ -124,7 +127,7 @@ Historico Apoio
 
 Agendar Servico Apoio
 
-![Agendar Servico Apoio](docs/screenshots/agendar-service-apoio.png)
+![Agendar Servico Apoio](docs/screenshots/agendar-servico-apoio.png)
 
 *Permite realizar e consultar agendamentos relacionados aos serviços de atendimento do perfil de apoio.
 
